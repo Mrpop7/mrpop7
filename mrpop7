@@ -1,0 +1,11 @@
+{
+  "name": "ppt",
+  "version": "1.0.0",
+  "description": "My TEA package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "author": "mrpop7",
+  "license": "MIT"
+}
